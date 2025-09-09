@@ -1,8 +1,8 @@
-<h1>Challenge Amigo secreto - </h1>
+<h1>Challenge Amigo secreto </h1>
 
 este es un proyecto que corresponde al programa para "Principiante en Programación G9 - ONE", mi nombre es Angélica Vera.
 
-<h2>Sorteo amigo secreto</h2>
+<h2>Funciones</h2>
 Es una aplicación que permita a los usuarios ingresar nombres de sus amigos a una lista, para luego realizar un sorteo de forma aleatoria y determinar quién es el "amigo secreto".
 
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
